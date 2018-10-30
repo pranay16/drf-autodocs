@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="drf_autodocs",
-    version=__import__('drf_autodocs').__version__,
+    version=__import__('drf_autodocs').__version__ + '.1',
     author="Mashianov Oleksander",
     author_email="mashianov@gmail.com",
     packages=find_packages(),
