@@ -1,4 +1,16 @@
 # Django REST framework auto docs
+
+# mindbogglr-drf_autodocs
+
+[![Latest PyPI version](https://badge.fury.io/py/mindbogglr-drf_autodocs.svg)](https://pypi.python.org/pypi/mindbogglr-drf_autodocs)
+
+Forked from: [drf_autodocs](https://github.com/iMakedonsky/drf-autodocs/tree/06c2d1d5a9cd23e698310dbce6100463bd8c3f46)
+
+Added support for ManifestFilesMixin when url for fonts is pointing to a non-existant file in css.
+
+
+# Original ReadMe
+
 Automated api documentation renderer
 
 ### Features:
